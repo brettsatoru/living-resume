@@ -2,4 +2,10 @@
 
 Presently written in HTML
 
-Copy the HTML and open in local browser of your chosing.
+HOW-TO RUN (LOCAL):
+
+Copy the HTML and open in local browser of your choosing.
+
+HOW-TO RUN (WEB):
+[Link to the Resume on the Web](https://brettsatoru.github.io/living-resume/)
+
